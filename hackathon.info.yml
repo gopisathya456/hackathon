@@ -40,7 +40,5 @@ dependencies:
   - tour
   - automated_cron
 themes:
-  - bartik
-  - seven
-
-
+  # Contrib themes.
+  - showcase_lite
