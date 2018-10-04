@@ -41,4 +41,6 @@ dependencies:
   - automated_cron
 themes:
   # Contrib themes.
+  - bartik
+  - seven
   - showcase_lite
