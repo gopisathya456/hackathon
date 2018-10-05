@@ -39,8 +39,10 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
+  # Contrib modules.
+  - datetime_range
 themes:
-  # Contrib themes.
   - bartik
   - seven
+  # Contrib themes.
   - showcase_lite
